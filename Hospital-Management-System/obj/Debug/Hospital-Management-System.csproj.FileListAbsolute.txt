@@ -1,0 +1,6 @@
+/Users/aieyantalha/Desktop/UTS/Sem Three - Sprint 23/Dot Net Development/Assignments/1/Hospital-Management-System/Hospital-Management-System/bin/Debug/Hospital-Management-System.exe
+/Users/aieyantalha/Desktop/UTS/Sem Three - Sprint 23/Dot Net Development/Assignments/1/Hospital-Management-System/Hospital-Management-System/bin/Debug/Hospital-Management-System.pdb
+/Users/aieyantalha/Desktop/UTS/Sem Three - Sprint 23/Dot Net Development/Assignments/1/Hospital-Management-System/Hospital-Management-System/obj/Debug/Hospital-Management-System.csproj.AssemblyReference.cache
+/Users/aieyantalha/Desktop/UTS/Sem Three - Sprint 23/Dot Net Development/Assignments/1/Hospital-Management-System/Hospital-Management-System/obj/Debug/Hospital-Management-System.csproj.CoreCompileInputs.cache
+/Users/aieyantalha/Desktop/UTS/Sem Three - Sprint 23/Dot Net Development/Assignments/1/Hospital-Management-System/Hospital-Management-System/obj/Debug/Hospital-Management-System.exe
+/Users/aieyantalha/Desktop/UTS/Sem Three - Sprint 23/Dot Net Development/Assignments/1/Hospital-Management-System/Hospital-Management-System/obj/Debug/Hospital-Management-System.pdb

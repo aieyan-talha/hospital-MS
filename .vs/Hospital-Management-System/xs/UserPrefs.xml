@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{E173FE87-93F7-452D-8E38-38A775F3334B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Hospital-Management-System/Program.cs">
+    <Files>
+      <File FileName="Hospital-Management-System/Program.cs" Line="9" Column="23" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Hospital-Management-System" expanded="True" selected="True">
+            <Node name="Hospital-Management-System" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.ItemProperties.Hospital-Management-System PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
