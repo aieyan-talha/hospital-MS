@@ -1,18 +1,30 @@
 ﻿<Properties StartupConfiguration="{E173FE87-93F7-452D-8E38-38A775F3334B}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Hospital-Management-System/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Hospital-Management-System/Users/Patient.cs">
     <Files>
-      <File FileName="Hospital-Management-System/Program.cs" Line="9" Column="23" />
+      <File FileName="Hospital-Management-System/Program.cs" Line="15" Column="1" />
+      <File FileName="Hospital-Management-System/Users/User.cs" Line="6" Column="25" />
+      <File FileName="Hospital-Management-System/Utils/Printer.cs" Line="1" Column="1" />
+      <File FileName="Hospital-Management-System/Pages/PatientPage.cs" Line="1" Column="1" />
+      <File FileName="Hospital-Management-System/Users/Patient.cs" Line="21" Column="1" />
+      <File FileName="Hospital-Management-System/Users/Doctor.cs" Line="14" Column="76" />
+      <File FileName="Hospital-Management-System/Users/Admin.cs" Line="9" Column="75" />
+      <File FileName="Hospital-Management-System/Structs/Appointment.cs" Line="2" Column="35" />
+      <File FileName="Hospital-Management-System/Structs/Medication.cs" Line="15" Column="10" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Hospital-Management-System" expanded="True" selected="True">
-            <Node name="Hospital-Management-System" expanded="True" />
+          <Node name="Hospital-Management-System" expanded="True">
+            <Node name="Hospital-Management-System" expanded="True">
+              <Node name="Pages" expanded="True" />
+              <Node name="Structs" expanded="True" />
+              <Node name="Users" expanded="True">
+                <Node name="Patient.cs" selected="True" />
+              </Node>
+              <Node name="Utils" expanded="True" />
+            </Node>
           </Node>
         </State>
-      </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
